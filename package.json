@@ -22,6 +22,7 @@
     "@config-plugins/detox": "~8.0.0",
     "@expo/cli": "~0.18.13",
     "@nx/detox": "19.5.7",
+    "@nx-dotnet/core": "^2.4.3",
     "@nx/eslint": "19.5.7",
     "@nx/eslint-plugin": "19.5.7",
     "@nx/expo": "19.5.7",
